@@ -48,6 +48,7 @@ export const navigationData = {
     // {title: 'Selectable Contacts List', screen: 'example.ItemsListSelectableContactScreen'},
   ],
   Animations: [
+    {title: 'Card Scanner', tags: 'card scanner process', screen: 'example.animations.CardScannerScreen'},
     {title: 'Lottie', tags: 'lottie after effect', screen: 'example.animations.LottieScreen'},
     {title: 'Feedback', tags: 'feedback stars lottie after effect', screen: 'example.animations.FeedbackScreen'},
   ],
