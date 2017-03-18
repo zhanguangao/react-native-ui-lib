@@ -47,6 +47,10 @@ export const navigationData = {
     // {title: 'Action Items List Contacts', screen: 'example.ActionItemsListBasicScreen', overrideBackPress: Constants.isAndroid},
     // {title: 'Selectable Contacts List', screen: 'example.ItemsListSelectableContactScreen'},
   ],
+  Animations: [
+    {title: 'Lottie', tags: 'lottie after effect', screen: 'example.animations.LottieScreen'},
+    {title: 'Feedback', tags: 'feedback stars lottie after effect', screen: 'example.animations.FeedbackScreen'},
+  ],
   // Errors: [
   //   {title: 'Default Error', screen: 'example.DefaultErrorScreen'},
   //   {title: 'Custom Error', screen: 'example.CustomErrorScreen'},
