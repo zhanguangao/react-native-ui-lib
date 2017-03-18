@@ -1715,6 +1715,10 @@ decompress@^3.0.0:
     vinyl-assign "^1.0.1"
     vinyl-fs "^2.2.0"
 
+dedent@^0.6.0:
+  version "0.6.0"
+  resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/dedent/-/dedent-0.6.0.tgz#0e6da8f0ce52838ef5cec5c8f9396b0c1b64a3cb"
+
 deep-extend@^0.4.0, deep-extend@~0.4.0:
   version "0.4.1"
   resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/deep-extend/-/deep-extend-0.4.1.tgz#efe4113d08085f4e6f9687759810f807469e2253"
@@ -3054,7 +3058,7 @@ interpret@^1.0.0:
   version "1.0.1"
   resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/interpret/-/interpret-1.0.1.tgz#d579fb7f693b858004947af39fa0db49f795602c"
 
-invariant@^2.0.0, invariant@^2.2.0:
+invariant@^2.0.0, invariant@^2.2.0, invariant@^2.2.2:
   version "2.2.2"
   resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/invariant/-/invariant-2.2.2.tgz#9e1f56ac0acdb6bf303306f338be3b204ae60360"
   dependencies:
@@ -3971,6 +3975,18 @@ loose-envify@^1.0.0, loose-envify@^1.1.0:
   dependencies:
     js-tokens "^3.0.0"
 
+lottie-ios@^1.0.2:
+  version "1.5.1"
+  resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/lottie-ios/-/lottie-ios-1.5.1.tgz#41a55481fa82287fb8390b664b7b1f7d8a74cfb5"
+
+lottie-react-native@^1.0.6:
+  version "1.0.6"
+  resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/lottie-react-native/-/lottie-react-native-1.0.6.tgz#f9f074372addc1fbb365072f022ed0291e2b866a"
+  dependencies:
+    invariant "^2.2.2"
+    lottie-ios "^1.0.2"
+    react-native-safe-module "^1.1.0"
+
 loud-rejection@^1.0.0:
   version "1.6.0"
   resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/loud-rejection/-/loud-rejection-1.6.0.tgz#5b46f80147edee578870f086d04821cf998e551f"
@@ -4734,6 +4750,12 @@ react-native-navigation@^2.0.0-experimental:
     lodash "4.x.x"
   optionalDependencies:
     react-redux "*"
+
+react-native-safe-module@^1.1.0:
+  version "1.1.1"
+  resolved "https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/react-native-safe-module/-/react-native-safe-module-1.1.1.tgz#c3eb1d2030661676b075ba8d12c305a31b1d8fb4"
+  dependencies:
+    dedent "^0.6.0"
 
 react-native@0.38.0:
   version "0.38.0"
