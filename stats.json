@@ -1,16 +1,24 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-2af388ae767daa69a920.js",
-      "component---src-pages-index-js-2af388ae767daa69a920.js.map"
+      "component---src-pages-index-js-8b2bc038ebab44786d4f.js",
+      "component---src-pages-index-js-8b2bc038ebab44786d4f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---modifiers": [
+      "path---modifiers-a0e39f21c11f6a62c5ab.js",
+      "path---modifiers-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a3a288de72194b24ce85.js",
-      "component---src-layouts-index-js-a3a288de72194b24ce85.js.map"
+      "component---src-layouts-index-js-8d546c7612a8b6c6aba2.js",
+      "component---src-layouts-index-js-8d546c7612a8b6c6aba2.js.map"
+    ],
+    "component---src-pages-modifiers-js": [
+      "component---src-pages-modifiers-js-e254e1c8d2112424f26d.js",
+      "component---src-pages-modifiers-js-e254e1c8d2112424f26d.js.map"
     ],
     "path---docs": [
       "path---docs-c28c6494704451053897.js",
@@ -25,20 +33,20 @@
       "component---src-pages-404-js-38fa5bcd9c534aee5dbe.js.map"
     ],
     "commons": [
-      "commons-c5a89ff2bc0feac80ef2.js",
-      "commons-c5a89ff2bc0feac80ef2.js.map"
+      "commons-cfe08c15100186618874.js",
+      "commons-cfe08c15100186618874.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-docs-js": [
-      "component---src-pages-docs-js-9eb08e518330fd7c8220.js",
-      "component---src-pages-docs-js-9eb08e518330fd7c8220.js.map"
+      "component---src-pages-docs-js-409c94a1c183e05db1c3.js",
+      "component---src-pages-docs-js-409c94a1c183e05db1c3.js.map"
     ],
     "app": [
-      "app-28bfdbaa6ee5668adbb1.js",
-      "app-28bfdbaa6ee5668adbb1.js.map"
+      "app-42dc675d2f77c512f183.js",
+      "app-42dc675d2f77c512f183.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
