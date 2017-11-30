@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{180:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=a(4),n=l(u);a(299);var c=function(){return n.default.createElement("div",{className:"main-page"},n.default.createElement("div",{className:"welcome"},n.default.createElement("div",{className:"title"},"<RNUILIB/>"),n.default.createElement("p",null,"Your favorite UI Lib")))};t.default=c,e.exports=t.default},299:function(e,t){}});
+//# sourceMappingURL=component---src-pages-index-js-2af388ae767daa69a920.js.map
