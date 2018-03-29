@@ -1,7 +1,7 @@
 language: node_js
 node_js:
 - "8"
-before_install: npm run bump:patch
+before_install: scripts/push.sh
 install: npm install
 deploy:
   provider: npm
