@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {StyleSheet} from 'react-native';
 import {Colors, Carousel, PageControl, Modal, View, Text, Constants} from 'react-native-ui-lib';//eslint-disable-line
+import { Navigation } from 'react-native-navigation';
 
 export default class ModalScreen extends Component {
 
@@ -17,10 +18,7 @@ export default class ModalScreen extends Component {
   }
 
   closeScreen() {
-    const {navigator} = this.props;
-    navigator.pop({
-      animated: true,
-    });
+    Navigation.pop(this.props.componentId);
   }
 
   render() {

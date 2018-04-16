@@ -46,12 +46,24 @@ Animatable.initializeRegistryWithDefinitions({
 });
 
 export function startApp() {
-  Navigation.startSingleScreenApp({
-    appStyle: {autoAdjustScrollViewInsets: true},
-    screen: {
-      screen: 'unicorn.MainScreen',
-      title: 'Wix UI Lib',
-      navigatorButtons: {},
-    },
+  Navigation.events().onAppLaunched(() => {
+    Navigation.setRoot({
+      stack: {
+        children: [
+          {
+            component: {
+              name: 'unicorn.MainScreen',
+              options: {
+                topBar: {
+                  title: {
+                    text: 'Wix UI Lib',
+                  },
+                },
+              },
+            },
+          },
+        ],
+      },
+    });
   });
 }

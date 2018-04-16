@@ -63,7 +63,7 @@
     "react-native": "0.51.0",
     "react-native-keyboard-aware-scrollview": "^2.0.0",
     "react-native-keyboard-tracking-view": "^5.3.2",
-    "react-native-navigation": "^1.1.19"
+    "react-native-navigation": "^2.x.x"
   },
   "peerDependencies": {
     "react": "16.0.0",
@@ -71,16 +71,25 @@
   },
   "jest": {
     "preset": "react-native",
-    "testPathIgnorePatterns": ["/e2e/", "/node_modules/"],
-    "setupFiles": ["./jest-setup.js"]
+    "testPathIgnorePatterns": [
+      "/e2e/",
+      "/node_modules/"
+    ],
+    "setupFiles": [
+      "./jest-setup.js"
+    ]
   },
   "babel": {
     "env": {
       "test": {
-        "presets": ["react-native"],
+        "presets": [
+          "react-native"
+        ],
         "retainLines": true
       }
     },
-    "plugins": ["transform-inline-environment-variables"]
+    "plugins": [
+      "transform-inline-environment-variables"
+    ]
   }
 }

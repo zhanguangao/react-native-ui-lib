@@ -5,6 +5,7 @@ import _ from 'lodash';
 import autobind from 'react-autobind';
 import {Colors, Typography, View, TextInput} from 'react-native-ui-lib';//eslint-disable-line
 import {navigationData} from '../menuStructure';
+import { Navigation } from 'react-native-navigation';
 
 const ds = new ListView.DataSource({
   rowHasChanged: (r1, r2) => r1 !== r2,
@@ -15,6 +16,7 @@ export default class UiLibExplorerMenu extends Component {
 
   static propTypes = {
     navigator: PropTypes.object,
+    componentId: PropTypes.string,
   };
 
   constructor(props) {
@@ -33,12 +35,17 @@ export default class UiLibExplorerMenu extends Component {
   }
 
   openScreen(row) {
-    const {navigator} = this.props;
-    navigator.push({
-      screen: row.screen,
-      title: row.title,
-      // overrideBackPress: row.overrideBackPress,
-      backButtonTitle: '',
+    Navigation.push(this.props.componentId, {
+      component: {
+        name: row.screen,
+        options: {
+          topBar: {
+            title: {
+              text: row.title,
+            },
+          },
+        },
+      },
     });
     this.filterExplorerScreens('');
   }
