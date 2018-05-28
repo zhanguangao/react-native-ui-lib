@@ -119,6 +119,7 @@ class Picker extends TextInput {
       selectedItemPosition: 0,
     };
 
+    /*eslint-disable*/
     if (props.mode === Picker.modes.SINGLE && Array.isArray(props.value)) {
       console.warn('Picker in SINGLE mode cannot accept an array for value');
     }
@@ -130,6 +131,7 @@ class Picker extends TextInput {
     if (props.useNativePicker && _.isPlainObject(props.value)) {
       console.warn('UILib Picker: dont use object as value for native picker, use either string or a number');
     }
+    /*eslint-enable*/
   }
 
   componentWillReceiveProps(nexProps) {

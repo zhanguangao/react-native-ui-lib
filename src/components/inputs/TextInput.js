@@ -124,8 +124,6 @@ export default class TextInput extends BaseInput {
       ),
       showExpandableModal: false,
     };
-
-    this.generatePropsWarnings(props);
   }
 
   componentWillReceiveProps(nextProps) {
@@ -141,15 +139,6 @@ export default class TextInput extends BaseInput {
 
   componentDidMount() {
     this.getHeight();
-  }
-
-  generatePropsWarnings(props) {
-    if (props.maxLength === 0) {
-      console.warn('Setting maxLength to zero will block typing in this input');
-    }
-    if (props.showCharacterCounter && !props.maxLength) {
-      console.warn("In order to use showCharacterCount please pass 'maxLength' prop");
-    }
   }
 
   generateStyles() {

@@ -189,10 +189,14 @@ class FeatureHighlight extends BaseComponent {
       const isUnderMin = height >= minRectHeight;
       topPosition = isUnderMin ? topPosition + innerPadding : targetCenter + (minRectHeight / 2) + (innerPadding / 2);
     }
+
+    /*eslint-disable*/
     if (topPosition < 0 || topPosition + this.contentHeight > Constants.screenHeight) {
       console.warn('Content is too long and might appear off screen. ' +
         'Please adjust the message length for better results.');
     }
+    /*eslint-enable*/
+
     return topPosition;
   }
 

@@ -124,14 +124,6 @@ export default class Button extends BaseComponent {
     large: 'large',
   };
 
-  constructor(props) {
-    super(props);
-
-    if (!_.isUndefined(props.containerStyle)) {
-      console.error('Button "containerStyle" prop will be deprecated soon, please use "style" instead');
-    }
-  }
-
   // This method will be called more than once in case of layout change!
   getComponentDimensions(event) {
     if (Constants.isAndroid && Platform.Version <= 17) {
