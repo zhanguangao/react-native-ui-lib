@@ -56,7 +56,7 @@ export function startApp() {
   Navigation.startSingleScreenApp({
     appStyle: {autoAdjustScrollViewInsets: true},
     screen: {
-      screen: 'unicorn.MainScreen',
+      screen: 'unicorn.PlaygroundScreen',
       title: 'Wix UI Lib',
       navigatorButtons: {},
     },
