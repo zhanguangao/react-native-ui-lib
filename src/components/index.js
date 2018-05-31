@@ -24,6 +24,7 @@ import TouchableOpacity from './touchableOpacity';
 import Tour from './tour';
 import View from './view';
 import WheelPickerDialog from './wheelPickerDialog';
+import {Hello} from './hello';
 
 
 module.exports = {
@@ -52,4 +53,5 @@ module.exports = {
   Tour,
   View,
   WheelPickerDialog,
+  Hello
 };

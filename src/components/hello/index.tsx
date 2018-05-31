@@ -2,6 +2,9 @@ import * as React from 'react';
 import { Button, StyleSheet, Text, View } from 'react-native'
 
 export interface Props {
+  /**
+   * Required prop
+   */
   name: string
   enthusiasmLevel?: number
   onIncrement?: () => void
