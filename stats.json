@@ -1,208 +1,208 @@
 {
   "assetsByChunkName": {
     "path---docs-highlighter-overlay-view": [
-      "path---docs-highlighter-overlay-view-99fcde4057d56851a9a9.js",
-      "path---docs-highlighter-overlay-view-99fcde4057d56851a9a9.js.map"
+      "path---docs-highlighter-overlay-view-7aa463f4cb49f4b48ff7.js",
+      "path---docs-highlighter-overlay-view-7aa463f4cb49f4b48ff7.js.map"
     ],
     "path---docs-action-bar": [
-      "path---docs-action-bar-8718b2185b457a8d1a40.js",
-      "path---docs-action-bar-8718b2185b457a8d1a40.js.map"
+      "path---docs-action-bar-889675846d5d441fcfec.js",
+      "path---docs-action-bar-889675846d5d441fcfec.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-8b2bc038ebab44786d4f.js",
       "component---src-pages-index-js-8b2bc038ebab44786d4f.js.map"
     ],
     "path---docs-image": [
-      "path---docs-image-b6b07785aeec7b4b0b8d.js",
-      "path---docs-image-b6b07785aeec7b4b0b8d.js.map"
+      "path---docs-image-0481db472e78a438c9c8.js",
+      "path---docs-image-0481db472e78a438c9c8.js.map"
     ],
     "path---": [
-      "path----091df1e6f5e539e6baa7.js",
-      "path----091df1e6f5e539e6baa7.js.map"
+      "path----b3f3ecc4be398256e1a3.js",
+      "path----b3f3ecc4be398256e1a3.js.map"
     ],
     "path---docs-loader-screen": [
-      "path---docs-loader-screen-ae3c0be2681d2c2d7caa.js",
-      "path---docs-loader-screen-ae3c0be2681d2c2d7caa.js.map"
+      "path---docs-loader-screen-7184f7168fe8f546d39b.js",
+      "path---docs-loader-screen-7184f7168fe8f546d39b.js.map"
     ],
     "path---docs-toast": [
-      "path---docs-toast-684040301f8f179d9d7f.js",
-      "path---docs-toast-684040301f8f179d9d7f.js.map"
+      "path---docs-toast-69bb4acb33ccc1ecdc86.js",
+      "path---docs-toast-69bb4acb33ccc1ecdc86.js.map"
     ],
     "path---docs-checkbox": [
-      "path---docs-checkbox-09635e6abc79b0c792fc.js",
-      "path---docs-checkbox-09635e6abc79b0c792fc.js.map"
+      "path---docs-checkbox-37c55cd9d668cd3fc999.js",
+      "path---docs-checkbox-37c55cd9d668cd3fc999.js.map"
     ],
     "path---docs-picker": [
-      "path---docs-picker-248ed4f0e9dda489de30.js",
-      "path---docs-picker-248ed4f0e9dda489de30.js.map"
+      "path---docs-picker-eb55a8d4082aa4dc95f7.js",
+      "path---docs-picker-eb55a8d4082aa4dc95f7.js.map"
     ],
     "path---docs-wheel-picker-item": [
-      "path---docs-wheel-picker-item-fecd75f1adc3d11285ea.js",
-      "path---docs-wheel-picker-item-fecd75f1adc3d11285ea.js.map"
+      "path---docs-wheel-picker-item-a1c39444b73a14cbffc2.js",
+      "path---docs-wheel-picker-item-a1c39444b73a14cbffc2.js.map"
     ],
     "path---docs-carousel": [
-      "path---docs-carousel-3605492be9a468d2d013.js",
-      "path---docs-carousel-3605492be9a468d2d013.js.map"
+      "path---docs-carousel-eea322cd937432c43d8b.js",
+      "path---docs-carousel-eea322cd937432c43d8b.js.map"
     ],
     "path---docs-picker-item": [
-      "path---docs-picker-item-fd611e05f719b875eef3.js",
-      "path---docs-picker-item-fd611e05f719b875eef3.js.map"
+      "path---docs-picker-item-065981b7e82d40cc33ac.js",
+      "path---docs-picker-item-065981b7e82d40cc33ac.js.map"
     ],
     "path---docs-modal-top-bar": [
-      "path---docs-modal-top-bar-712a2a88546cc5dc796e.js",
-      "path---docs-modal-top-bar-712a2a88546cc5dc796e.js.map"
+      "path---docs-modal-top-bar-89ab17b0f6d29b2dded2.js",
+      "path---docs-modal-top-bar-89ab17b0f6d29b2dded2.js.map"
     ],
     "path---docs-radio-group": [
-      "path---docs-radio-group-24b4920c8548ea84b4ff.js",
-      "path---docs-radio-group-24b4920c8548ea84b4ff.js.map"
+      "path---docs-radio-group-7b97e45193b36d7bec02.js",
+      "path---docs-radio-group-7b97e45193b36d7bec02.js.map"
     ],
     "path---docs-badge": [
-      "path---docs-badge-f2cca78af4c6b01efa9c.js",
-      "path---docs-badge-f2cca78af4c6b01efa9c.js.map"
+      "path---docs-badge-f5c121d4f314771dd5bc.js",
+      "path---docs-badge-f5c121d4f314771dd5bc.js.map"
     ],
     "path---docs-example-component": [
-      "path---docs-example-component-1f70e6d4ca7aef61c9b1.js",
-      "path---docs-example-component-1f70e6d4ca7aef61c9b1.js.map"
+      "path---docs-example-component-3d11d67193d81c50a803.js",
+      "path---docs-example-component-3d11d67193d81c50a803.js.map"
     ],
     "path---modifiers": [
       "path---modifiers-a0e39f21c11f6a62c5ab.js",
       "path---modifiers-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-ignore": [
-      "path---docs-ignore-d627094b3bff7a03fa0f.js",
-      "path---docs-ignore-d627094b3bff7a03fa0f.js.map"
+      "path---docs-ignore-5493e214720a1c832876.js",
+      "path---docs-ignore-5493e214720a1c832876.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-52a6572411235453789a.js",
-      "component---src-layouts-index-js-52a6572411235453789a.js.map"
+      "component---src-layouts-index-js-533629f60375cd668331.js",
+      "component---src-layouts-index-js-533629f60375cd668331.js.map"
     ],
     "path---docs-stepper": [
-      "path---docs-stepper-7b47b1215b12d8785fd8.js",
-      "path---docs-stepper-7b47b1215b12d8785fd8.js.map"
+      "path---docs-stepper-26b9435b5161e0f0f834.js",
+      "path---docs-stepper-26b9435b5161e0f0f834.js.map"
     ],
     "path---docs-modal": [
-      "path---docs-modal-112aa3df4cabe16d1783.js",
-      "path---docs-modal-112aa3df4cabe16d1783.js.map"
+      "path---docs-modal-0a8d496c33b5eee12190.js",
+      "path---docs-modal-0a8d496c33b5eee12190.js.map"
     ],
     "path---docs-masked-input": [
-      "path---docs-masked-input-1d413f09ef42369d9d3f.js",
-      "path---docs-masked-input-1d413f09ef42369d9d3f.js.map"
+      "path---docs-masked-input-b5ec70c2d521eaa8c178.js",
+      "path---docs-masked-input-b5ec70c2d521eaa8c178.js.map"
     ],
     "component---src-pages-modifiers-js": [
       "component---src-pages-modifiers-js-370f566d9eae9ece76a7.js",
       "component---src-pages-modifiers-js-370f566d9eae9ece76a7.js.map"
     ],
     "path---docs-safe-area-spacer-view": [
-      "path---docs-safe-area-spacer-view-847dbdf1e5c524fc84d3.js",
-      "path---docs-safe-area-spacer-view-847dbdf1e5c524fc84d3.js.map"
+      "path---docs-safe-area-spacer-view-dca1826f96b4d6556d73.js",
+      "path---docs-safe-area-spacer-view-dca1826f96b4d6556d73.js.map"
     ],
     "path---docs": [
       "path---docs-a0e39f21c11f6a62c5ab.js",
       "path---docs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-list-item": [
-      "path---docs-list-item-213d385dc31f20dd038b.js",
-      "path---docs-list-item-213d385dc31f20dd038b.js.map"
+      "path---docs-list-item-8e059f9678bb6cdd60b4.js",
+      "path---docs-list-item-8e059f9678bb6cdd60b4.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-text": [
-      "path---docs-text-ef2b71d4b6d37c7ab486.js",
-      "path---docs-text-ef2b71d4b6d37c7ab486.js.map"
+      "path---docs-text-51609baa500d30f02de5.js",
+      "path---docs-text-51609baa500d30f02de5.js.map"
     ],
     "path---docs-view": [
-      "path---docs-view-1fa1bca4d06818741864.js",
-      "path---docs-view-1fa1bca4d06818741864.js.map"
+      "path---docs-view-5ce2ffdf4e0aebb58ddf.js",
+      "path---docs-view-5ce2ffdf4e0aebb58ddf.js.map"
     ],
     "path---docs-picker-dialog": [
-      "path---docs-picker-dialog-b86147a84f6df3fc10d1.js",
-      "path---docs-picker-dialog-b86147a84f6df3fc10d1.js.map"
+      "path---docs-picker-dialog-dfda0d7b1e1728740a42.js",
+      "path---docs-picker-dialog-dfda0d7b1e1728740a42.js.map"
     ],
     "path---docs-tab-bar": [
-      "path---docs-tab-bar-b8519cc56fad9319fcef.js",
-      "path---docs-tab-bar-b8519cc56fad9319fcef.js.map"
+      "path---docs-tab-bar-2c1eb22f50e8f6c03575.js",
+      "path---docs-tab-bar-2c1eb22f50e8f6c03575.js.map"
     ],
     "path---docs-connection-status-bar": [
-      "path---docs-connection-status-bar-611eaca383095b773db5.js",
-      "path---docs-connection-status-bar-611eaca383095b773db5.js.map"
+      "path---docs-connection-status-bar-c223195a9d64f56a7203.js",
+      "path---docs-connection-status-bar-c223195a9d64f56a7203.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-38fa5bcd9c534aee5dbe.js",
       "component---src-pages-404-js-38fa5bcd9c534aee5dbe.js.map"
     ],
     "path---docs-list-item-part": [
-      "path---docs-list-item-part-8b903aacd2539675f0d3.js",
-      "path---docs-list-item-part-8b903aacd2539675f0d3.js.map"
+      "path---docs-list-item-part-a7d4483945645f95178a.js",
+      "path---docs-list-item-part-a7d4483945645f95178a.js.map"
     ],
     "commons": [
       "commons-fcbb8af1639fee4f6844.js",
       "commons-fcbb8af1639fee4f6844.js.map"
     ],
     "path---docs-text-area": [
-      "path---docs-text-area-a6b66516ea9a39c3287d.js",
-      "path---docs-text-area-a6b66516ea9a39c3287d.js.map"
+      "path---docs-text-area-e7025d5d89671913af50.js",
+      "path---docs-text-area-e7025d5d89671913af50.js.map"
     ],
     "path---docs-touchable-opacity": [
-      "path---docs-touchable-opacity-38f34a9f8b8687512f73.js",
-      "path---docs-touchable-opacity-38f34a9f8b8687512f73.js.map"
+      "path---docs-touchable-opacity-4692ecd7fa9355203bb4.js",
+      "path---docs-touchable-opacity-4692ecd7fa9355203bb4.js.map"
     ],
     "path---docs-animated-image": [
-      "path---docs-animated-image-1fac2f7e9fa52238de3a.js",
-      "path---docs-animated-image-1fac2f7e9fa52238de3a.js.map"
+      "path---docs-animated-image-2efcafef62c101e5b716.js",
+      "path---docs-animated-image-2efcafef62c101e5b716.js.map"
     ],
     "path---docs-feature-highlight": [
-      "path---docs-feature-highlight-ad191ac1bec6af7808a5.js",
-      "path---docs-feature-highlight-ad191ac1bec6af7808a5.js.map"
+      "path---docs-feature-highlight-f772e5873675c9866648.js",
+      "path---docs-feature-highlight-f772e5873675c9866648.js.map"
     ],
     "path---docs-switch": [
-      "path---docs-switch-e1e0e27d5a190e2921af.js",
-      "path---docs-switch-e1e0e27d5a190e2921af.js.map"
+      "path---docs-switch-ea29c49dcef1bf6c3738.js",
+      "path---docs-switch-ea29c49dcef1bf6c3738.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-card": [
-      "path---docs-card-87dce058c368289ffe09.js",
-      "path---docs-card-87dce058c368289ffe09.js.map"
+      "path---docs-card-06b668d5bc66c8da0294.js",
+      "path---docs-card-06b668d5bc66c8da0294.js.map"
     ],
     "path---docs-notification": [
-      "path---docs-notification-c134b868447770f415f5.js",
-      "path---docs-notification-c134b868447770f415f5.js.map"
+      "path---docs-notification-1b65d448d327c110eb54.js",
+      "path---docs-notification-1b65d448d327c110eb54.js.map"
     ],
     "path---docs-action-sheet": [
-      "path---docs-action-sheet-f177fbdac8314326fb32.js",
-      "path---docs-action-sheet-f177fbdac8314326fb32.js.map"
+      "path---docs-action-sheet-40ef293bc7f3d53f5336.js",
+      "path---docs-action-sheet-40ef293bc7f3d53f5336.js.map"
     ],
     "path---docs-animated-scanner": [
-      "path---docs-animated-scanner-13f8a8f02519a1909aea.js",
-      "path---docs-animated-scanner-13f8a8f02519a1909aea.js.map"
+      "path---docs-animated-scanner-98e2492f89a07f8e1761.js",
+      "path---docs-animated-scanner-98e2492f89a07f8e1761.js.map"
     ],
     "path---docs-text-field": [
-      "path---docs-text-field-7034d156ec8d94c82dea.js",
-      "path---docs-text-field-7034d156ec8d94c82dea.js.map"
+      "path---docs-text-field-d351ba6b8c7abbce42f0.js",
+      "path---docs-text-field-d351ba6b8c7abbce42f0.js.map"
     ],
     "path---docs-card-image": [
-      "path---docs-card-image-427f63e9ded28aefacd3.js",
-      "path---docs-card-image-427f63e9ded28aefacd3.js.map"
+      "path---docs-card-image-ff47c2ab728e8d07a4a0.js",
+      "path---docs-card-image-ff47c2ab728e8d07a4a0.js.map"
     ],
     "path---docs-button": [
-      "path---docs-button-7070a386ca71697d2352.js",
-      "path---docs-button-7070a386ca71697d2352.js.map"
+      "path---docs-button-2c48ad548af8120e31de.js",
+      "path---docs-button-2c48ad548af8120e31de.js.map"
     ],
     "path---docs-progress-bar": [
-      "path---docs-progress-bar-c20d4173a4c3576e71da.js",
-      "path---docs-progress-bar-c20d4173a4c3576e71da.js.map"
+      "path---docs-progress-bar-ee35406c4ef78909a583.js",
+      "path---docs-progress-bar-ee35406c4ef78909a583.js.map"
     ],
     "path---docs-state-screen": [
-      "path---docs-state-screen-47b5744902319db14f3e.js",
-      "path---docs-state-screen-47b5744902319db14f3e.js.map"
+      "path---docs-state-screen-a8450320b5dab031d438.js",
+      "path---docs-state-screen-a8450320b5dab031d438.js.map"
     ],
     "path---docs-tab-bar-item": [
-      "path---docs-tab-bar-item-6adc2e6ede969375b00a.js",
-      "path---docs-tab-bar-item-6adc2e6ede969375b00a.js.map"
+      "path---docs-tab-bar-item-0ce7abcd9ed603dd054e.js",
+      "path---docs-tab-bar-item-0ce7abcd9ed603dd054e.js.map"
     ],
     "component---src-pages-docs-js": [
       "component---src-pages-docs-js-6a6c852ac9cc045e5e8e.js",
@@ -213,52 +213,52 @@
       "component---src-templates-component-js-375cf9c6ee10181f8b60.js.map"
     ],
     "path---docs-radio-button": [
-      "path---docs-radio-button-0a3c192095d827eb4467.js",
-      "path---docs-radio-button-0a3c192095d827eb4467.js.map"
+      "path---docs-radio-button-b6db0a596db01282c3a1.js",
+      "path---docs-radio-button-b6db0a596db01282c3a1.js.map"
     ],
     "app": [
-      "app-00fe177cd9d34713f65d.js",
-      "app-00fe177cd9d34713f65d.js.map"
+      "app-1a0a2d1d3d0e60e73a98.js",
+      "app-1a0a2d1d3d0e60e73a98.js.map"
     ],
     "path---docs-tags-input": [
-      "path---docs-tags-input-d31d68f22389fa8e68d8.js",
-      "path---docs-tags-input-d31d68f22389fa8e68d8.js.map"
+      "path---docs-tags-input-288f5da2ac2fc4dd6bd0.js",
+      "path---docs-tags-input-288f5da2ac2fc4dd6bd0.js.map"
     ],
     "path---docs-dialog": [
-      "path---docs-dialog-6aea553421bd9d33d353.js",
-      "path---docs-dialog-6aea553421bd9d33d353.js.map"
+      "path---docs-dialog-a28137f8bf9e1ef92c14.js",
+      "path---docs-dialog-a28137f8bf9e1ef92c14.js.map"
     ],
     "path---docs-card-item": [
-      "path---docs-card-item-f9eb6d8db580a16cd1fe.js",
-      "path---docs-card-item-f9eb6d8db580a16cd1fe.js.map"
+      "path---docs-card-item-ac01e1f45176e87a1d15.js",
+      "path---docs-card-item-ac01e1f45176e87a1d15.js.map"
     ],
     "path---docs-wheel-picker": [
-      "path---docs-wheel-picker-76b23c075d8637e83b8a.js",
-      "path---docs-wheel-picker-76b23c075d8637e83b8a.js.map"
+      "path---docs-wheel-picker-ebf7d730a20dc603b323.js",
+      "path---docs-wheel-picker-ebf7d730a20dc603b323.js.map"
     ],
     "path---docs-avatar": [
-      "path---docs-avatar-3cfbd44e3cc5c2ac8006.js",
-      "path---docs-avatar-3cfbd44e3cc5c2ac8006.js.map"
+      "path---docs-avatar-d30154ec498af03b43e5.js",
+      "path---docs-avatar-d30154ec498af03b43e5.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-card-section": [
-      "path---docs-card-section-474e501890c46f6c4a97.js",
-      "path---docs-card-section-474e501890c46f6c4a97.js.map"
+      "path---docs-card-section-7660950e70fb254c23fe.js",
+      "path---docs-card-section-7660950e70fb254c23fe.js.map"
     ],
     "path---docs-page-control": [
-      "path---docs-page-control-d3e1339f0c36317c1428.js",
-      "path---docs-page-control-d3e1339f0c36317c1428.js.map"
+      "path---docs-page-control-771781bd6f912d11af52.js",
+      "path---docs-page-control-771781bd6f912d11af52.js.map"
     ],
     "path---docs-text-input": [
-      "path---docs-text-input-7d75f49a1ecc45903d23.js",
-      "path---docs-text-input-7d75f49a1ecc45903d23.js.map"
+      "path---docs-text-input-36d035386614ad9928f5.js",
+      "path---docs-text-input-36d035386614ad9928f5.js.map"
     ],
     "path---docs-tour": [
-      "path---docs-tour-01ee5909e85266348bd7.js",
-      "path---docs-tour-01ee5909e85266348bd7.js.map"
+      "path---docs-tour-e04fc30fa55b9727e6de.js",
+      "path---docs-tour-e04fc30fa55b9727e6de.js.map"
     ]
   }
 }
