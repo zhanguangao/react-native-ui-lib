@@ -17,61 +17,69 @@ class Typography {
     fontSize: 64,
     fontWeight: WEIGHT_TYPES.ULIGHT,
     lineHeight: Math.floor(64 * 1.4),
-    fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    // // fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text20 = {
     fontSize: 50,
     fontWeight: WEIGHT_TYPES.ULIGHT,
     lineHeight: Math.floor(50 * 1.4),
-    fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text30 = {
     fontSize: 36,
     fontWeight: Constants.isAndroid ? WEIGHT_TYPES.ULIGHT : WEIGHT_TYPES.THIN,
     lineHeight: Math.floor(36 * 1.3),
-    fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-thin' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text40 = {
     fontSize: 28,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(28 * 1.4) : Math.floor(28 * 1.21),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text50 = {
     fontSize: Constants.isAndroid ? 24 : 22,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(24 * 1.17) : Math.floor(22 * 1.27),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text60 = {
     fontSize: 20,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Math.floor(20 * 1.2),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
   };
   text70 = {
     fontSize: Constants.isAndroid ? 16 : 17,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(16 * 1.38) : Math.floor(17 * 1.29),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
   };
   text80 = {
     fontSize: Constants.isAndroid ? 14 : 15,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(14 * 1.33) : Math.floor(15 * 1.33),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text90 = {
     fontSize: Constants.isAndroid ? 12 : 13,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(12 * 1.33) : Math.floor(13 * 1.38),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
   text100 = {
     fontSize: Constants.isAndroid ? 10 : 11,
     fontWeight: WEIGHT_TYPES.LIGHT,
     lineHeight: Constants.isAndroid ? Math.floor(10 * 1.18) : Math.floor(11 * 1.18),
-    fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    // fontFamily: Constants.isAndroid ? 'sans-serif-light' : undefined,
+    fontFamily: 'NotoSans-Bold',
   };
 
   /**
